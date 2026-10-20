@@ -11,7 +11,7 @@ int main(){
         cout<< "Greater Number is = " << num2 << endl;
     }
     else if( num3 > num1 && num3 > num2){
-        cout<< "Greater Number is = " << num3 << endl;
+        cout<< "Greater Number is = " << num3<< endl;
     }
     else 
     cout<< " Atleast Two Numbers are Equal "<< endl;
